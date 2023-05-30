@@ -5,8 +5,6 @@
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunaliduario7?igshid=MzNlNGNkZWQ4Mg==)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<p>bruna.blm13@gmail.com</p>
 
-![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruna-liduario&show_icons=true&theme=dracula)
-
 ## Tecnologias 
 <div style="display:inline_block"><br/>
 <img alig="center"alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=whit" />
