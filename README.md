@@ -10,6 +10,8 @@
 <img alig="center"alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=whit" />
 <img alig="center"alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alig="center"alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alig="center"alt="JS" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
 </div><br/>
 
 Formada em Gestão da Qualidade e Cursando 4º período de Análise e Desenvolvimento de Sistemas, busco agora novas oportunidades e estou confiante de que minha experiência em gestão da qualidade, combinada com minha paixão pela criação de soluções front-end de alta qualidade, me tornará um membro valioso de uma equipe de desenvolvimento.
