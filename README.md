@@ -14,4 +14,4 @@
   
 </div><br/>
 
-Formada em Gestão da Qualidade e Cursando 4º período de Análise e Desenvolvimento de Sistemas, busco agora novas oportunidades e estou confiante de que minha experiência em gestão da qualidade, combinada com minha paixão pela criação de soluções front-end de alta qualidade, me tornará um membro valioso de uma equipe de desenvolvimento.
+Formada em Gestão da Qualidade e Cursando 4º período de Análise e Desenvolvimento de Sistema.
