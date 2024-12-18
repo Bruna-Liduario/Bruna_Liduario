@@ -16,5 +16,5 @@
   
 
 
-Formada em Gestão da Qualidade e Cursando 4º período de Análise e Desenvolvimento de Sistema.
+Formada em Gestão da Qualidade e Análise e Desenvolvimento de Sistema.
 Trabalho atualmente como Analista de Programação JAVA. 
